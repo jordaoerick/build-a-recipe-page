@@ -1,1 +1,1 @@
-# build-a-recipe-page
+I just made this repository for studying purpose. I'm doing the new freeCodeCamp Certified Full Stack Developer Curriculum.
